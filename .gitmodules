@@ -1,0 +1,3 @@
+[submodule "Cell-DEVS-CO2_spread_indoor"]
+	path = Cell-DEVS-CO2_spread_indoor
+	url = https://github.com/SimulationEverywhere-Models/Cell-DEVS-CO2_spread_indoor
