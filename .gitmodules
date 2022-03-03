@@ -10,3 +10,6 @@
 [submodule "Cell-DEVS-Hoya"]
 	path = Cell-DEVS-Hoya
 	url = https://github.com/SimulationEverywhere-Models/Cell-DEVS-Hoya
+[submodule "Cell-DEVS_CO2_with_Room_Ducts_Model-1"]
+	path = Cell-DEVS_CO2_with_Room_Ducts_Model-1
+	url = https://github.com/SimulationEverywhere-Models/Cell-DEVS_CO2_with_Room_Ducts_Model-1
